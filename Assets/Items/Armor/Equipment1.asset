@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90230fc9ef41cc9489cec4a6071b6484, type: 3}
+  m_Name: Equipment1
+  m_EditorClassIdentifier: 
+  image: {fileID: 21300000, guid: 5a6afb8edd71d42418ff6f6a191a0a06, type: 3}
+  itemName: Chestplate1
+  level: 1
+  buyPrice: 10
+  sellPrice: 4
+  dropRate: 1
+  PhysicalDefensePoints: 15
+  MagicalDefensePoints: 15
+  EquipmentType: 1
+  HealthPointsAdded: 5
+  LevelRequiredToEquip: 1
